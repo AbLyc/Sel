@@ -75,11 +75,11 @@ end
 function create_self( )
   self = {
     names = {
-    "Dilan",
-    "دیلان",
-    "دیلی",
+    "ablyc",
+    "ابلیس",
+    "ابلیک",
     "Dev",
-    "Dili",
+    "mamad",
     "Slm"
     },
     answers = {
@@ -128,7 +128,7 @@ function create_config( )
 		"tools",
      "fun"
 	},
-    sudo_users = {994564140},
+    sudo_users = {971621004},
     admins = {},
     disabled_channels = {},
     moderation = {data = './data/moderation.json'},
